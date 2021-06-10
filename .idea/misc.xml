@@ -1,6 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../caches/transforms-2/files-2.1/dcf559d4747be0cb0ea1a8d917ce0200/jetified-StandardActionBarAndroidLibrary-0.2.9/res/layout/layout_toolbar.xml" value="0.15208333333333332" />
+        <entry key="FileManagerHandsets/src/main/res/drawable-night/ic_baseline_overflow_menu_24.xml" value="0.21145833333333333" />
+        <entry key="FileManagerHandsets/src/main/res/drawable-night/ic_baseline_search_24.xml" value="0.2764102564102564" />
+        <entry key="FileManagerHandsets/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/background_bottom_sheet_dark.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/background_bottom_sheet_light.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/ic_baseline_arrow_back_24_dark.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/ic_baseline_arrow_back_24_light.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/ic_baseline_check_circle_24_dark.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/ic_baseline_check_circle_24_light.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/ic_baseline_circle_outline_24_dark.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/ic_baseline_circle_outline_24_light.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/ic_baseline_keyboard_arrow_up_24_dark.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/ic_baseline_keyboard_arrow_up_24_light.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/ic_baseline_menu_24_dark.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/ic_baseline_menu_24_light.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/ic_baseline_overflow_menu_24.xml" value="0.21145833333333333" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/ic_baseline_overflow_menu_24_dark.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/ic_baseline_overflow_menu_24_light.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/ic_baseline_sd_card_24_dark.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/ic_baseline_sd_card_24_light.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2764102564102564" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/ic_baseline_search_24_dark.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/ic_baseline_search_24_light.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/ic_baseline_settings_24_dark.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/ic_baseline_settings_24_light.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/ic_launcher_background.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/icon_apps.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/icon_documents.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/icon_images.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/icon_music.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/drawable/icon_video.xml" value="0.23333333333333334" />
+        <entry key="FileManagerHandsets/src/main/res/layout/activity_home.xml" value="0.259963768115942" />
+        <entry key="FileManagerHandsets/src/main/res/layout/activity_image_library.xml" value="0.259963768115942" />
+        <entry key="FileManagerHandsets/src/main/res/layout/activity_search.xml" value="0.1" />
+        <entry key="FileManagerHandsets/src/main/res/layout/activity_settings.xml" value="0.259963768115942" />
+        <entry key="FileManagerHandsets/src/main/res/layout/layout_home_section_item.xml" value="0.259963768115942" />
+        <entry key="FileManagerHandsets/src/main/res/layout/layout_image_library_item.xml" value="0.259963768115942" />
+        <entry key="FileManagerHandsets/src/main/res/layout/layout_option_item.xml" value="0.259963768115942" />
+        <entry key="FileManagerHandsets/src/main/res/layout/layout_searchable_toolbar.xml" value="0.15" />
+        <entry key="FileManagerHandsets/src/main/res/layout/layout_section_item.xml" value="0.259963768115942" />
+        <entry key="FileManagerHandsets/src/main/res/layout/layout_standard_toolbar.xml" value="0.10597826086956522" />
+        <entry key="FileManagerHandsets/src/main/res/layout/layout_toolbar.xml" value="0.259963768115942" />
+        <entry key="FileManagerHandsets/src/main/res/menu/menu_activity_home_action_bar.xml" value="0.35572916666666665" />
+        <entry key="FileManagerHandsets/src/main/res/menu/menu_activity_search_action_bar.xml" value="0.14537037037037037" />
+        <entry key="FileManagerHandsets/src/main/res/menu/menu_activity_settings_action_bar.xml" value="0.35572916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

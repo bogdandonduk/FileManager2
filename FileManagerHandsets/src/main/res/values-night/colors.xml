@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#202020</color>
+    <color name="accent">#303030</color>
+    <color name="accent_transparent_strong">#cc303030</color>
+    <color name="accent_transparent_faint">#88303030</color>
+
+    <color name="clickable_text">#82eefd</color>
+
+    <color name="text">#fdfdfd</color>
+
+    <color name="light_text">#fdfdfd</color>
+    <color name="dark_text">#202020</color>
+</resources>

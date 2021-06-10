@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Файл-менеджер</string>
+    <string name="open">Открыть</string>
+    <string name="open_menu">Открыть меню</string>
+    <string name="close">Закрыть</string>
+    <string name="close_menu">Закрыть меню</string>
+    <string name="images">Изображения</string>
+    <string name="video">Видео</string>
+    <string name="audio">Аудио</string>
+    <string name="documents">Документы</string>
+    <string name="apks">APK файлы</string>
+    <string name="icon">Иконка</string>
+    <string name="apps">Приложения</string>
+    <string name="toggle">Переключить</string>
+    <string name="settings">Настройки</string>
+    <string name="section_info">%1$s/%2$s/%3$s</string>
+    <string name="search">Поиск</string>
+    <string name="thumbnail">Миниатюра</string>
+    <string name="sd_card">SD карта</string>
+    <string name="check">Отметить</string>
+    <string name="uncheck">Снять отметку</string>
+    <string name="storage">Хранилище</string>
+    <string name="downloads">Загрузки</string>
+    <string name="root_view">Корневой view</string>
+
+    <string name="more_options">Больше опций</string>
+    <string name="go_back">Назад</string>
+    <string name="no_storage_permission">Нет разрешения на доступ к хранилищу</string>
+    <string name="permissions_required">Необходимы разрешения</string>
+    <string name="it_is_required_for_file_system_access_and_management">Оно необходимо для доступа и управления файловой системой</string>
+    <string name="deny">Запретить</string>
+    <string name="allow">Разрешить</string>
+    <string name="all_files_management">Управление всеми файлами</string>
+    <string name="for_entire_filesystem_access_and_operation">для доступа и действий над всей файловой системой</string>
+    <string name="copy_text">Копировать текст</string>
+    <string name="text_copied">Текст скопирован</string>
+
+</resources>
